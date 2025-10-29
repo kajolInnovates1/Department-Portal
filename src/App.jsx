@@ -3,11 +3,12 @@ import { Route, Routes } from 'react-router-dom';
 import Feed from './pages/Feed';
 import Messages from './pages/Messages';
 import ChatBox from './pages/ChatBox';
-import Connections from './pages/Connections';
 import Discover from './pages/Discover';
 import Profile from './pages/Profile';
 import CreatePost from './pages/CreatePost';
+import Connections from './pages/Connections';
 import Login from './pages/login';
+
 
 const App = () => {
   return (
